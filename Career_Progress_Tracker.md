@@ -4,10 +4,10 @@
 - [ ] Finish CS50 Intro to Computer Science  
    - [ ] Upload projects to GitHub  
 - [ ] Keep résumé updated (add CS50 final project once complete)  
-- [ ] Set up GitHub profile  
-   - [ ] Add profile picture + short bio  
+- [X] Set up GitHub profile  
+   - [X] Add profile picture + short bio  
    - [ ] Upload CS50 projects  
-   - [ ] Write README files  
+   - [X] Write README files  
 
 ---
 
