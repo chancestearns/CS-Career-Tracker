@@ -16,7 +16,7 @@ My goal is to combine skills in **software development** and **cybersecurity** t
 ---
 
 ### 🔹 Projects (So Far)
-- **CS50 Coursework Projects** (Mario, Cash, etc.) — practicing algorithms and problem-solving.  
+- **CS50 Coursework Projects** (Mario, Cash, Scrabble, etc.) — practicing algorithms and problem-solving.  
 - **Scratch Pirate Game Prototype** — interactive demo using loops, conditionals, and custom blocks.  
 - **Vocal Saturator VST Plugin (In Progress)** — learning C++ and plugin development in JUCE.  
 
