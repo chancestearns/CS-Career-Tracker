@@ -34,3 +34,53 @@
 - [ ] Build larger portfolio project (website, automation tool, or security project)  
 - [ ] Expand GitHub with advanced work & consistent commits  
 - [ ] Consider Cloud certs or advanced CompTIA (CySA+, Pentest+)  
+
+
+# Roadmap to Deep Learning – Progress Tracker
+
+This roadmap outlines the learning steps to prepare for the **Deep Learning Specialization** on deeplearning.ai.  
+Check off each item as you complete it ✅
+
+---
+
+## Step 1 – Core CS Foundation
+- [ ] [CS50x: Introduction to Computer Science (Harvard/edX)](https://cs50.harvard.edu/x/)  
+  *Goal: Build algorithms, problem-solving, and core CS mindset.*
+
+---
+
+## Step 2 – Python Fundamentals
+- [ ] [CS50P: Introduction to Programming with Python (Harvard/edX)](https://cs50.harvard.edu/python/)  
+  *Goal: Master Python, NumPy, and pandas basics.*
+
+---
+
+## Step 3 – Math for ML 
+- [ ] [Mathematics for Machine Learning and Data Science (deeplearning.ai)](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)  
+  *Goal: Linear Algebra, Calculus, Probability, Statistics.*
+
+---
+
+## Step 4 – Machine Learning Foundations
+- [ ] [Machine Learning Specialization (deeplearning.ai, Andrew Ng)](https://www.coursera.org/specializations/machine-learning-introduction)  
+  *Goal: Core ML algorithms, workflows, and practical applications.*
+
+---
+
+## Step 5 – Deep Learning
+- [ ] [Deep Learning Specialization (deeplearning.ai, Andrew Ng)](https://www.coursera.org/specializations/deep-learning)  
+  *Goal: Neural networks, CNNs, RNNs, Transformers, TensorFlow.*
+
+---
+
+## Step 6 – Portfolio & Growth (Ongoing)
+- [ ] Start a [GitHub](https://github.com/) profile and upload projects.  
+- [ ] Join [Kaggle](https://www.kaggle.com/) and practice with datasets.  
+- [ ] Share progress & certificates on [LinkedIn](https://www.linkedin.com/).  
+- [ ] Explore advanced topics (NLP, Computer Vision, Generative AI).  
+
+---
+
+## Notes
+- Estimated total: **12–15 months** (part-time pace).  
+- Adjust as needed based on your schedule.  
