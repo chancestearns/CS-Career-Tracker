@@ -55,9 +55,12 @@ Check off each item as you complete it ✅
 
 ---
 
-## Step 3 – Math for ML 
+## Step 3 – Math + Intro to AI (in Parallel)
 - [ ] [Mathematics for Machine Learning and Data Science (deeplearning.ai)](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)  
-  *Goal: Linear Algebra, Calculus, Probability, Statistics.*
+  *Goal: Linear Algebra, Calculus, Probability, Statistics.*  
+
+- [ ] [CS50AI: Introduction to Artificial Intelligence with Python (Harvard/edX)](https://cs50.harvard.edu/ai/)  
+  *Goal: Apply AI concepts (search, optimization, ML basics, neural networks) in Python.*
 
 ---
 
@@ -82,5 +85,5 @@ Check off each item as you complete it ✅
 ---
 
 ## Notes
-- Estimated total: **12–15 months** (part-time pace).  
+- Estimated total: **13–16 months** (part-time pace).  
 - Adjust as needed based on your schedule.  
